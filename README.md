@@ -3,7 +3,7 @@
 ### - simple adapter
 
 
-```
+```java
 SimpleAdapter adapter 
 = new SimpleAdapter(getApplicationContext(), 
                     fillMaps, 
