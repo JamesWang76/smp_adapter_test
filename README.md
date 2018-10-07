@@ -1,6 +1,6 @@
 # android studio
 
-**simple adapter**
+### simple adapter
 
 
 ```
@@ -11,7 +11,7 @@ SimpleAdapter adapter
                     from, 
                     to);
 ```
-### parameter intro.
+##### parameter intro.
 1. context(context)
 看起來應該就是抓到目前這app的main xml, 也可以改成this就好, 
 但是你要是寫在try/catch裡面, 就要寫getapp...(), 因為裡面的this不是指context
