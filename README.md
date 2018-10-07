@@ -4,12 +4,7 @@
 
 
 ```java
-SimpleAdapter adapter 
-= new SimpleAdapter(getApplicationContext(), 
-                    fillMaps, 
-                    R.layout.rss, 
-                    from, 
-                    to);
+SimpleAdapter adapter = new SimpleAdapter(getApplicationContext(), fillMaps, R.layout.rss, from, to);
 ```
 ##### parameter intro.
 1. context(context)<br>
