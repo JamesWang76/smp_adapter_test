@@ -1,6 +1,6 @@
 # android studio
 
-==simple adapter==
+**simple adapter**
 
 
 ```
